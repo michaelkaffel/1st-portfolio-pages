@@ -14,3 +14,15 @@ body {
 .headshot {
   border-radius: 10px;
 }
+
+.foot {
+  text-align: center;
+}
+
+.divider {
+  width: 60%;           /* line is 60% of the page width */
+  margin: 20px auto;    /* auto centers it horizontally */
+  border: none;         /* removes default border */
+  height: 2px;          /* sets the thickness */
+  background-color: #333;  /* set line color */
+}
