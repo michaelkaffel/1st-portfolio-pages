@@ -10,3 +10,7 @@ body {
 .container {
   text-align: center;
 }
+
+.headshot {
+  border-radius: 10px;
+}
